@@ -1,6 +1,8 @@
 # monzoweb
 Check your Monzo account from your browser
 
+[![Build Status](https://travis-ci.org/imascarenhas/monzoweb.svg?branch=master)](https://travis-ci.org/imascarenhas/monzoweb)
+
 ## Install
 
 1. [Install Node.js & npm](https://nodejs.org/en/download/package-manager/)
