@@ -3,6 +3,8 @@ Check your Monzo account from your browser
 
 [![Build Status](https://travis-ci.org/imascarenhas/monzoweb.svg?branch=master)](https://travis-ci.org/imascarenhas/monzoweb)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Install
 
 1. [Install Node.js & npm](https://nodejs.org/en/download/package-manager/)
