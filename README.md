@@ -1,7 +1,7 @@
 # monzoweb
 Check your Monzo account from your browser
 
-[![Build Status](https://travis-ci.org/imascarenhas/monzoweb.svg?branch=master)](https://travis-ci.org/imascarenhas/monzoweb)
+[![Build Status](https://travis-ci.org/imascarenhas/monzoweb.svg?branch=add_docker_support)](https://travis-ci.org/imascarenhas/monzoweb)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/imascarenhas/monzoweb/tree/add_docker_support)
 
